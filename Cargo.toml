@@ -1,6 +1,6 @@
 [package]
 name = "dropcount"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Akira Mizuno <akmizno@gmail.com>"]
 description = "Count destructor calls"
