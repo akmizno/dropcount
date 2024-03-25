@@ -1,11 +1,11 @@
 [package]
 name = "dropcount"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Akira Mizuno <akmizno@gmail.com>"]
 description = "Count destructor calls"
 keywords = ["drop"]
-categories = ["Testing"]
+categories = ["development-tools::testing"]
 repository = "https://github.com/akmizno/dropcount"
 license = "MIT/Apache-2.0"
 
