@@ -97,7 +97,7 @@ fn test_hashmap() {
 }
 ```
 
-### Use with multi-threading
+### Multi-threading support
 This crate supports multi-threading.
 Atomic integers are used as the internal coutner values.
 Therefore, it is possible to capture the number of destructions with multi-threading.
